@@ -1,4 +1,4 @@
 
-public class BasicStack {
+public class BasicStack <X> {
 
 }
